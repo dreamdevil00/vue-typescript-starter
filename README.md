@@ -1,6 +1,6 @@
-# play_vue1
+# Vue-Typescript-Starter
 
-> A Vue.js project
+> A Vue.js starter project whick you can use typescript to code
 
 ## Build Setup
 
